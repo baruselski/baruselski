@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">💼 Professional Experience<br>I have 2 years of experience as a Software Tester for Embedded Systems with C/C++, including test design, code review, error reporting etc.<br>I also performed basics of automated testing using python<br><br>🎓 Education<br>BSc @ AGH University of Science and Technology in Cracow | Electronics and Communications<br>MSc @ Wrocław University of Science and Technology | System Engineering<br>Currently pursuing BSc @ Wrocław University of Science and Technology in Intelligent Electronics</p>
+<h3 align="left">💼 Professional Experience</h3>I have 2 years of experience as a Software Tester for Embedded Systems with C/C++, including test design, code review, error reporting etc.<br>I also performed basics of automated testing using python<br><br>
+<h3 align="left">🎓 Education</h3>BSc @ AGH University of Science and Technology in Cracow | Electronics and Communications<br>MSc @ Wrocław University of Science and Technology | System Engineering<br>Currently pursuing BSc @ Wrocław University of Science and Technology in Intelligent Electronics</p>
 
 ###
 
